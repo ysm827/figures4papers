@@ -21,7 +21,7 @@ I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candida
 
 <div align="center">
 
-<h3 align="left">Radar plots &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Line plots</h3>
+<h3 align="left">Radar plots &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Line plots</h3>
 
 <p align="left">
 <img align="left" src="figure_VIGIL/figures/comparison_radar.png" width="400" hspace="6" alt="Radar comparison">
