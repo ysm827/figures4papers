@@ -1,6 +1,6 @@
 # Common Patterns for Publication Figures
 
-These patterns are used across the repository for consistent, publication-ready figures. Apply them when building bar charts, multi-panel layouts, and print-safe graphics.
+These patterns are used across the repository for consistent, publication-ready figures. Apply them when building bar charts, multi-panel layouts, and print-safe graphics. Step-by-step flows that use many of these ideas are in [tutorials.md](tutorials.md); for chart types not covered there, use the closing section of that file and [demos.md](demos.md).
 
 ---
 

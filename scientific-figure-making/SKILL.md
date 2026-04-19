@@ -12,7 +12,7 @@ description: >-
 
 # Scientific figure making
 
-Open files under `references/` only when the active task requires that content; do not preload or read every reference by default.
+Open `references/` only as needed; do not preload every file. Start from the table below, then follow links inside the document you opened (and into `figure_*` code via [references/demos.md](references/demos.md)) instead of loading the full reference set up front.
 
 ## When to load this skill
 

@@ -2,22 +2,24 @@
 
 Implement the API described in [api.md](api.md) in your own code (constants, style, plot helpers, finalize). For real-world scripts that follow this style, see [demos.md](demos.md) (links to the [figures4papers](https://github.com/ChenLiu-1996/figures4papers) `figure_*` folders).
 
+If venue, approximate dimensions, or export formats are missing and they would change layout or DPI, ask before locking choices. For unattended scripts, set a non-interactive matplotlib backend (for example `matplotlib.use("Agg")`) before importing `pyplot`. Finish with `finalize_figure` as in [api.md](api.md).
+
 ---
 
-## Tutorial 1: Bar chart for method comparison
+## Tutorial 1: Grouped bar chart
 
-**Goal:** One grouped bar chart comparing 3 methods across 4 metrics, with values above bars and PDF+PNG export.
+**Goal:** One grouped bar chart: several series compared on the same categorical x-axis (metrics, conditions, tasks, or similar), optional value annotations, and export via `finalize_figure`.
 
 **Checklist:**
 
-- [ ] Load or define data: categories (metric names), series (one list per method), labels (method names).
+- [ ] Load or define data: shared category list for the x-axis; one numeric array per series (each aligned with those categories); legend label per series.
 - [ ] Call `apply_publication_style` with a style (e.g. `FigureStyle(font_size=24, axes_linewidth=3)` for a large panel).
-- [ ] Create figure and one axis; use wide `figsize` if many metrics (e.g. `(16, 5)`).
-- [ ] Call `make_grouped_bar(ax, categories, series, labels, ylabel="Score", annotate=True)`.
-- [ ] Set y-limits if needed (e.g. `ax.set_ylim(0, 100)`).
+- [ ] Create figure and one axis; widen `figsize` when there are many categories so ticks and labels stay readable.
+- [ ] Call `make_grouped_bar(ax, categories, series, labels, ylabel="...", annotate=True)` (or `annotate=False` and use `annotate_bars` separately per [api.md](api.md)).
+- [ ] Set y-limits to a range that fits the data (tighten when values sit in a narrow band).
 - [ ] Call `finalize_figure(fig, "output/comparison", formats=["png", "pdf"], dpi=300)`.
 
-**Example flow** (implement `apply_publication_style`, `make_grouped_bar`, `finalize_figure`, and `PALETTE` per [api.md](api.md)):
+**Example flow** (illustrative counts; implement helpers per [api.md](api.md)):
 
 ```python
 import matplotlib.pyplot as plt
@@ -26,13 +28,13 @@ import matplotlib.pyplot as plt
 apply_publication_style(FigureStyle(font_size=24, axes_linewidth=3))
 fig, ax = plt.subplots(figsize=(16, 5))
 
-categories = ["Metric A", "Metric B", "Metric C", "Metric D"]
-series = [
+categories = ["Metric A", "Metric B", "Metric C", "Metric D"]  # length K
+series = [  # one list per series, each length K
     [0.92, 0.88, 0.85, 0.90],
     [0.85, 0.82, 0.88, 0.84],
     [0.78, 0.80, 0.82, 0.79],
 ]
-labels = ["Ours", "Baseline X", "Baseline Y"]
+labels = ["Ours", "Baseline X", "Baseline Y"]  # same length as series
 make_grouped_bar(
     ax, categories, series, labels,
     ylabel="Score", colors=[PALETTE["blue_main"], PALETTE["green_3"], PALETTE["red_strong"]],
@@ -112,7 +114,15 @@ finalize_figure(fig, "output/heatmap", formats=["png", "pdf"], dpi=300)
 
 ---
 
-For more patterns (ultra-wide layout, categorical bars, print-safe colors), see [common-patterns.md](common-patterns.md). For design rationale, see [design-theory.md](design-theory.md).
+## Chart types beyond these walkthroughs
+
+These tutorials cover grouped bars, multi-panel trends with a legend column, and heatmaps. For other house-style figures, open the closest match in [demos.md](demos.md), then align constants and `finalize_figure` with [api.md](api.md) and typography or export rules in [design-theory.md](design-theory.md).
+
+- **Radar or polar comparisons:** `figure_VIGIL` (for example `plot_comparison_radar.py`).
+- **Comparison or post-training line panels:** `figure_VIGIL`, `figure_ophthal_review`, or `figure_Cflows`, depending on layout.
+- **Scatter-heavy or schematic panels:** use helpers in [api.md](api.md); see `figure_Dispersion` or other demos in [demos.md](demos.md) as needed.
+
+For more layout ideas (ultra-wide panels, legend-only axes, print-safe bars), see [common-patterns.md](common-patterns.md).
 
 ## Related files
 

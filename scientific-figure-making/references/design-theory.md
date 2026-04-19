@@ -80,6 +80,8 @@ For publication-grade grouped/ablation bars:
 - Use `fill_between` for uncertainty when needed.
 - Keep grid minimal or absent; rely on axis ticks and direct legend reading.
 
+**Polar / radar:** Keep the number of series readable at publication size; use the same line-weight and label discipline as Cartesian trends. Repository examples live under `figure_VIGIL` (see [demos.md](demos.md)).
+
 ## 7) Scatter/Illustration Encoding Strategy
 
 - Dense geometric scenes use lowered alpha and muted fills.

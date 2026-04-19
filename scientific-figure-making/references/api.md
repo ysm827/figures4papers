@@ -137,10 +137,16 @@ make_sphere_illustration(ax, light_dir=(-0.55, 0.65, 0.55), resolution=280)
 
 See [design-theory.md](design-theory.md) for visual and export conventions.
 
+## Conventions
+
+- Save script outputs under a project `figures/` directory (or the path the user gives) with stable basenames; `finalize_figure` creates parent directories as needed.
+- In batch or headless runs, set a non-interactive backend before `import matplotlib.pyplot` (for example `matplotlib.use("Agg")`).
+- When comparisons, panel count, color roles, resolution, or data layout are underspecified in a way that would change the figure, confirm with the user before finalizing.
+
 ## Related files
 
 - [SKILL.md](../SKILL.md) — When to load this skill
 - [demos.md](demos.md) — Canonical `figure_*` repo links
 - [common-patterns.md](common-patterns.md) — Layout, legend panel, print-safe encoding
 - [design-theory.md](design-theory.md) — Rationale and rcParams-style presets
-- [tutorials.md](tutorials.md) — End-to-end examples using this API
+- [tutorials.md](tutorials.md) — End-to-end examples and pointers beyond the three core tutorials

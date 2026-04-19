@@ -6,13 +6,14 @@ The design theory, patterns, and guidance in this skill are derived from the fig
 
 ## Project folders (demos)
 
-Each folder contains Python scripts and (in `figures/`) outputs that follow the skill's house style. Use them as references for bar charts, trend plots, heatmaps, and multi-panel layouts.
+Each folder contains Python scripts and (in `figures/`) outputs that follow the skill's house style. Use them as references for bar charts, trend and line panels, heatmaps, radar or polar comparisons, and multi-panel layouts.
 
 | Project | Link | Notes |
 |--------|------|--------|
 | **figure_ImmunoStruct** | [figures4papers/figure_ImmunoStruct](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_ImmunoStruct) | Bar plots for quantitative comparison |
 | **figure_CellSpliceNet** | [figures4papers/figure_CellSpliceNet](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_CellSpliceNet) | Bar comparison, ablation |
 | **figure_brainteaser** | [figures4papers/figure_brainteaser](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_brainteaser) | Bar composition breakdown |
+| **figure_VIGIL** | [figures4papers/figure_VIGIL](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_VIGIL) | Radar plots, line plots |
 | **figure_ophthal_review** | [figures4papers/figure_ophthal_review](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_ophthal_review) | Trend plots |
 | **figure_RNAGenScape** | [figures4papers/figure_RNAGenScape](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_RNAGenScape) | Heat maps |
 | **figure_Dispersion** | [figures4papers/figure_Dispersion](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_Dispersion) | 3D-style spheres, performance plots |
