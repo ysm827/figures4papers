@@ -19,11 +19,22 @@ I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candida
 ### Bar plots for composition breakdown
 <img src="figure_brainteaser/figures/brute_force.png" width="800">
 
-### Radar plots
-<img src="figure_VIGIL/figures/comparison_radar.png" width="400">
+<div align="center">
 
-### Line plots
+<table border="0" cellspacing="12" cellpadding="0">
+<tr>
+<td align="center" valign="top">
+<h3>Radar plots</h3>
+<img src="figure_VIGIL/figures/comparison_radar.png" width="400">
+</td>
+<td align="center" valign="top">
+<h3>Line plots</h3>
 <img src="figure_VIGIL/figures/comparison_posttraining.png" width="400">
+</td>
+</tr>
+</table>
+
+</div>
 
 ### Trend plots
 <img src="figure_ophthal_review/figures/trend_by_month.png" width="800">
