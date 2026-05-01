@@ -146,7 +146,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 ```bibtex
 @inproceedings{liu2026dispersion,
   title={Dispersion loss counteracts embedding condensation and improves generalization in small language models},
-  author={Liu, Chen and Sun, Xingzhi and Xiao, Xi and Van Tassel, Alexandre and Xu, Ke and Reimann, Kristof and Liao, Danqi and Gerstein, Mark and Wang, Tianyang and Wang, Xiao and others},
+  author={Liu, Chen and Sun, Xingzhi and Xiao, Xi and Van Tassel, Alexandre and Xu, Ke and Reimann, Kristof and Liao, Danqi and Gerstein, Mark and Wang, Tianyang and Wang, Xiao and Krishnaswamy, Smita},
   booktitle={International conference on machine learning},
   year={2026},
   organization={PMLR}
@@ -162,7 +162,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 ```bibtex
 @article{liao2025rnagenscape,
   title={RNAGenScape: Property-Guided, Optimized Generation of mRNA Sequences with Manifold Langevin Dynamics},
-  author={Liao, Danqi and Liu, Chen and Sun, Xingzhi and Tang, Di{\'e} and Wang, Haochen and Youlten, Scott and Gopinath, Srikar Krishna and Lee, Haejeong and Strayer, Ethan C and Giraldez, Antonio J and others},
+  author={Liao, Danqi and Liu, Chen and Sun, Xingzhi and Tang, Di{\'e} and Wang, Haochen and Youlten, Scott and Gopinath, Srikar Krishna and Lee, Haejeong and Strayer, Ethan C and Giraldez, Antonio J and Krishnaswamy, Smita},
   journal={arXiv preprint arXiv:2510.24736},
   year={2025}
 }
