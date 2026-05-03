@@ -8,11 +8,11 @@
 
 </div>
 
+I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candidate at Yale University.
+
 This is a centralized repository of my own **Python scripts for high-quality figures**.
 
 These figures appear in top venues including but not limited to *Nature Machine Intelligence*, *ICML*, and *NeurIPS*.
-
-I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candidate at Yale University.
 
 ### Bar plots for quantitative comparison
 <img src="figure_ImmunoStruct/figures/bars_comparison_IEDB.png" width="800">
