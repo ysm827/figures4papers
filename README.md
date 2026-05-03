@@ -16,7 +16,6 @@ These figures appear in top venues including but not limited to *Nature Machine 
 
 <br>
 <br>
-<br>
 
 ### Bar plots for quantitative comparison
 <img src="figure_ImmunoStruct/figures/bars_comparison_IEDB.png" width="800">
