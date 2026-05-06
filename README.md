@@ -146,7 +146,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 <summary>Dispersion</summary>
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=pd6A7jB5D6)
-[![ICML 2026](https://img.shields.io/badge/ICML_2026-purple)](https://icml.cc/virtual/2026/poster/61492)
+[![ICML 2026](https://img.shields.io/badge/ICML_2026-purple)](https://openreview.net/pdf?id=pd6A7jB5D6)
 [![arXiv](https://img.shields.io/badge/arXiv-Dispersion-firebrick)](https://arxiv.org/abs/2602.00217)
 [![PDF](https://img.shields.io/badge/PDF-DADBDD)](https://arxiv.org/pdf/2602.00217)
 [![GitHub Stars](https://img.shields.io/github/stars/ChenLiu-1996/LM-Dispersion.svg?style=social\&label=Stars)](https://github.com/ChenLiu-1996/LM-Dispersion)
@@ -180,7 +180,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 <summary>brainteaser</summary>
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=3oQDkmW72a)
-[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS_2025-purple)](https://neurips.cc/virtual/2025/loc/san-diego/poster/120001)
+[![NeurIPS 2025](https://img.shields.io/badge/NeurIPS_2025-purple)](https://openreview.net/pdf?id=3oQDkmW72a)
 [![HuggingFace Dataset](https://img.shields.io/badge/Dataset-brainteaser-orange)](https://huggingface.co/datasets/ChenLiu1996/Brainteaser)
 [![arXiv](https://img.shields.io/badge/arXiv-brainteaser-firebrick)](https://arxiv.org/abs/2505.10844)
 [![PDF](https://img.shields.io/badge/PDF-DADBDD)](https://arxiv.org/pdf/2505.10844)
