@@ -17,7 +17,7 @@ These figures appear in top venues including but not limited to *Nature Machine 
 
 <br>
 
-**[Tiny request]** Can you do me a favor and star this repository too: [https://github.com/ChenLiu-1996/LM-Dispersion](https://github.com/ChenLiu-1996/LM-Dispersion)? Thank you!
+Can you do me a favor and **star this repository** too: [https://github.com/ChenLiu-1996/LM-Dispersion](https://github.com/ChenLiu-1996/LM-Dispersion)? Thank you!
 
 <br>
 <br>
