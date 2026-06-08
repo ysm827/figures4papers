@@ -61,7 +61,8 @@ These figures were made partially in Python. I included them to acknowledge the 
 
 <br>
 
-## LLM skill integration (some credits to my friend [Shan Chen](https://shanchen.dev/))
+## LLM skill integration
+I want to show appreciation to my friend [Shan Chen](https://shanchen.dev/) who suggested doing this.
 
 The **scientific figure making** skill lives in `scientific-figure-making/`. Demo figures live in `assets/`. Project-specific scripts and outputs live in `figure_*/`.
 
