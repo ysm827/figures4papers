@@ -29,7 +29,7 @@ Can you do me a favor and **star this repository** too: [https://github.com/Chen
 
 ### Bar plots for composition breakdown
 <img src="figure_Brainteaser/figures/brute_force.png" width="800">
-w
+
 
 ### 3D spheres
 <img src="figure_Dispersion/figures/illustration.png" width="800">
