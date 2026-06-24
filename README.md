@@ -60,8 +60,8 @@ These figures were made partially in Python. I included them to acknowledge the 
 
 <img src="assets/ImmunoStruct_schematic.png" width="400"><img src="assets/ImmunoStruct_contrastive.png" width="400">
 <br><img src="assets/ImmunoStruct_results_IEDB.png" width="400"><img src="assets/ImmunoStruct_results_CEDAR.png" width="400">
-<br><img src="assets/RNAGenScape_teaser.png" width="400"><img src="assets/RNAGenScape_schematic.png" width="400">
-<br><img src="assets/VIGIL_teaser.png" width="400"><img src="assets/Dispersion_motivation.png" width="400">
+<br><img src="assets/RNAGenScape_teaser.png" width="400"><img src="assets/Dispersion_motivation.png" width="400">
+<br><img src="assets/VIGIL_teaser.png" width="400"><img src="assets/RNAGenScape_schematic.png" width="400">
 <br><img src="assets/Dispersion_observation.png" width="400"><img src="assets/Dispersion_observation_distillation.png" width="400">
 
 <br>
