@@ -25,11 +25,11 @@ Can you do me a favor and **star this repository** too: [https://github.com/Chen
 ### Bar plots for quantitative comparison
 <img src="figure_ImmunoStruct/figures/bars_comparison_IEDB.png" width="800">
 
-<img src="figure_CellSpliceNet/figures/comparison.png" width="800">
+<img src="figure_CellSpliceNet/figures/comparison_worm.png" width="800">
 
 ### Bar plots for composition breakdown
-<img src="figure_brainteaser/figures/brute_force.png" width="800">
-
+<img src="figure_Brainteaser/figures/brute_force.png" width="800">
+w
 <div align="center">
 
 <h3 align="left">Radar plots &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Line plots</h3>

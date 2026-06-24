@@ -12,7 +12,7 @@ Each folder contains Python scripts and (in `figures/`) outputs that follow the 
 |--------|------|--------|
 | **figure_ImmunoStruct** | [figures4papers/figure_ImmunoStruct](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_ImmunoStruct) | Bar plots for quantitative comparison |
 | **figure_CellSpliceNet** | [figures4papers/figure_CellSpliceNet](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_CellSpliceNet) | Bar comparison, ablation |
-| **figure_brainteaser** | [figures4papers/figure_brainteaser](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_brainteaser) | Bar composition breakdown |
+| **figure_Brainteaser** | [figures4papers/figure_Brainteaser](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_Brainteaser) | Bar composition breakdown |
 | **figure_VIGIL** | [figures4papers/figure_VIGIL](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_VIGIL) | Radar plots, line plots |
 | **figure_ophthal_review** | [figures4papers/figure_ophthal_review](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_ophthal_review) | Trend plots |
 | **figure_RNAGenScape** | [figures4papers/figure_RNAGenScape](https://github.com/ChenLiu-1996/figures4papers/tree/main/figure_RNAGenScape) | Heat maps |
