@@ -148,10 +148,11 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 
 </details>
 <details>
-<summary>Dispersion</summary>
+<summary>LM-Dispersion</summary>
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=pd6A7jB5D6)
 [![ICML 2026](https://img.shields.io/badge/ICML_2026-purple)](https://icml.cc/virtual/2026/poster/61492)
+[![Project Page](https://img.shields.io/badge/Project_Page-B9DEF1)](https://chenliu-1996.github.io/projects/LM-Dispersion/)
 [![arXiv](https://img.shields.io/badge/arXiv-Dispersion-firebrick)](https://arxiv.org/abs/2602.00217)
 [![PDF](https://img.shields.io/badge/PDF-DADBDD)](https://arxiv.org/pdf/2602.00217)
 [![GitHub Stars](https://img.shields.io/github/stars/ChenLiu-1996/LM-Dispersion.svg?style=social\&label=Stars)](https://github.com/ChenLiu-1996/LM-Dispersion)
@@ -159,9 +160,25 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 @inproceedings{liu2026dispersion,
   title={Dispersion loss counteracts embedding condensation and improves generalization in small language models},
   author={Liu, Chen and Sun, Xingzhi and Xiao, Xi and Van Tassel, Alexandre and Xu, Ke and Reimann, Kristof and Liao, Danqi and Gerstein, Mark and Wang, Tianyang and Wang, Xiao and Krishnaswamy, Smita},
-  booktitle={International conference on machine learning},
+  booktitle={International Conference on Machine Learning},
   year={2026},
   organization={PMLR}
+}
+```
+
+</details>
+<details>
+<summary>VIGIL</summary>
+
+[![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=p9Zb9F0V71)
+[![Project Page](https://img.shields.io/badge/Project_Page-B9DEF1)](https://xixiaouab.github.io/VIGIL/)
+```bibtex
+@inproceedings{xiao2026vigil,
+    title={Staying VIGILant: Mitigating Visual Laziness via Counterfactual Visual Alignment in MLLMs},
+    author={Xiao, Xi and Liu, Chen and Liao, Chih-Ting and Zhang, Yunbei and Lan, Qizhen and Wei, Yuxiang and Zhao, Lin and Wang, Janet and Gu, Jianyang and Ye, Muchao and Wang, Tianyang and Xu, Hao},
+    booktitle={European Conference on Computer Vision},
+    year={2026},
+    organization={Springer}
 }
 ```
 
