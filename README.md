@@ -127,7 +127,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 
 ## Related Papers
 <details>
-<summary>ImmunoStruct</summary>
+<summary>ImmunoStruct (Nature Machine Intelligence)</summary>
 
 [![nature](https://img.shields.io/badge/nature-machine_intelligence-gold)](https://www.nature.com/articles/s42256-025-01163-y)
 [![PDF](https://img.shields.io/badge/PDF-DADBDD)](https://www.nature.com/articles/s42256-025-01163-y.pdf)
@@ -148,7 +148,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 
 </details>
 <details>
-<summary>LM-Dispersion</summary>
+<summary>LM-Dispersion (ICML)</summary>
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=pd6A7jB5D6)
 [![ICML 2026](https://img.shields.io/badge/ICML_2026-purple)](https://icml.cc/virtual/2026/poster/61492)
@@ -168,7 +168,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 
 </details>
 <details>
-<summary>VIGIL</summary>
+<summary>VIGIL (ECCV)</summary>
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=p9Zb9F0V71)
 [![Project Page](https://img.shields.io/badge/Project_Page-B9DEF1)](https://xixiaouab.github.io/VIGIL/)
@@ -199,7 +199,7 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 
 </details>
 <details>
-<summary>brainteaser</summary>
+<summary>Brainteaser (NeurIPS)</summary>
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=3oQDkmW72a)
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS_2025-purple)](https://neurips.cc/virtual/2025/loc/san-diego/poster/120001)
