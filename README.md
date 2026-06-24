@@ -13,7 +13,7 @@ I am [Chen Liu](https://chenliu-1996.github.io/), a Computer Science PhD Candida
 
 This is a centralized repository of my own **Python scripts for high-quality figures**.
 
-These figures appear in top venues including but not limited to *Nature Machine Intelligence*, *ICML*, and *NeurIPS*.
+These figures appear in top venues including *Nature Machine Intelligence*, *ICML*, *NeurIPS*, *ECCV*, etc.
 
 <br>
 
