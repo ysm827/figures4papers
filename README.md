@@ -30,6 +30,10 @@ Can you do me a favor and **star this repository** too: [https://github.com/Chen
 ### Bar plots for composition breakdown
 <img src="figure_Brainteaser/figures/brute_force.png" width="800">
 w
+
+### 3D spheres
+<img src="figure_Dispersion/figures/illustration.png" width="800">
+
 <div align="center">
 
 <h3 align="left">Radar plots &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Line plots</h3>
@@ -42,8 +46,8 @@ w
 
 </div>
 
-### 3D spheres
-<img src="figure_Dispersion/figures/illustration.png" width="800">
+### Concept plots
+<img src="figure_VIGIL/figures/concept.png" width="800">
 
 ### Trend plots
 <img src="figure_ophthal_review/figures/trend_by_month.png" width="800">
@@ -203,8 +207,8 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 
 [![OpenReview](https://img.shields.io/badge/OpenReview-eeeeee)](https://openreview.net/forum?id=3oQDkmW72a)
 [![NeurIPS 2025](https://img.shields.io/badge/NeurIPS_2025-purple)](https://neurips.cc/virtual/2025/loc/san-diego/poster/120001)
-[![HuggingFace Dataset](https://img.shields.io/badge/Dataset-brainteaser-orange)](https://huggingface.co/datasets/ChenLiu1996/Brainteaser)
-[![arXiv](https://img.shields.io/badge/arXiv-brainteaser-firebrick)](https://arxiv.org/abs/2505.10844)
+[![HuggingFace Dataset](https://img.shields.io/badge/Dataset-Brainteaser-orange)](https://huggingface.co/datasets/ChenLiu1996/Brainteaser)
+[![arXiv](https://img.shields.io/badge/arXiv-Brainteaser-firebrick)](https://arxiv.org/abs/2505.10844)
 [![PDF](https://img.shields.io/badge/PDF-DADBDD)](https://arxiv.org/pdf/2505.10844)
 [![GitHub Stars](https://img.shields.io/github/stars/stephenxia1/brainteasers.svg?style=social\&label=Stars)](https://github.com/stephenxia1/brainteasers)
 ```bibtex
