@@ -15,9 +15,7 @@ This is a centralized repository of my own **Python scripts for high-quality fig
 
 These figures appear in top venues including *Nature Machine Intelligence*, *ICML*, *NeurIPS*, *ECCV*, etc.
 
-<br>
-
-Can you do me a favor and **star this repository** too: [https://github.com/ChenLiu-1996/LM-Dispersion](https://github.com/ChenLiu-1996/LM-Dispersion)? Thank you!
+You are very welcome to cite these papers if you find some of them relevant or helpful.
 
 <br>
 <br>
