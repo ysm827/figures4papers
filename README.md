@@ -211,11 +211,13 @@ Restart the agent (or refresh its skill list) after linking. You can then invoke
 [![PDF](https://img.shields.io/badge/PDF-DADBDD)](https://arxiv.org/pdf/2505.10844)
 [![GitHub Stars](https://img.shields.io/github/stars/stephenxia1/brainteasers.svg?style=social\&label=Stars)](https://github.com/stephenxia1/brainteasers)
 ```bibtex
-@article{han2025creativity,
-  title={Creativity or Brute Force? Using Brainteasers as a Window into the Problem-Solving Abilities of Large Language Models},
-  author={Han, Simeng and Dai, Howard and Xia, Stephen and Zhang, Grant and Liu, Chen and Chen, Lichang and Nguyen, Hoang Huy and Mei, Hongyuan and Mao, Jiayuan and McCoy, R. Thomas},
-  journal={Advances in neural information processing systems},
-  year={2025}
+@article{han2026creativity,
+  title={Creativity or brute force? using brainteasers as a window into the problem-solving abilities of large language models},
+  author={Han, Sophia and Dai, Howard and Xia, Stephen and Zhang, Grant and Liu, Chen and Chen, Lichang and Nguyen, Hoang H and Mei, Hongyuan and Mao, Jiayuan and McCoy, R Thomas},
+  journal={Advances in Neural Information Processing Systems},
+  volume={38},
+  pages={146950--147004},
+  year={2026}
 }
 ```
 
